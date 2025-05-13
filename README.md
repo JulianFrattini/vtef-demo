@@ -20,6 +20,8 @@ This repository contains the following files.
 
 ```
 ├── docs : documentation and specifications
+│   ├── context-specification.md : scope, stakeholders, goals, and domain model
+│   └── requirements-specification.md : system vision, usage model, and non-functional requirements
 ├── figures : visualizations of concepts and graphs
 └── src : source code files
 ```
